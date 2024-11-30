@@ -11,13 +11,15 @@ My work focuses on Partial Differential Equations, particularly non-local operat
 
 ## **Education**
 
+- **(2025-2029) PhD Mathematics, Universidad Nacional Autónoma de México (UNAM).**
+  - I work on the development of variational methods for fractional partial differential equations and the implementation of the finite element method (FEM) in this context.
+
 - **(2023-2024) Master's Degree in Science - Mathematics, Universidad Nacional Autónoma de México (UNAM).**  
-  - Graduated with honors, GPA: 9.75/10.  
+  - Graduated with honors.  
   - General exams (Qualifying exams): Partial Differential Equations, Functional Analysis, and Numerical Analysis of Ordinary Differential Equations.  
   - Final project: [Formulación variacional para problemas de difusión anómala unidimensionales](/assets/documents/tesina.pdf).
 
-- **(2017-2022) Bachelor's Degree in Mathematics, Universidad Nacional de Colombia (UNAL).**  
-  - GPA: 4.3/5.  
+- **(2017-2022) Bachelor's Degree in Mathematics, Universidad Nacional de Colombia (UNAL).**   
   - Research assistantship in Partial Differential Equations.  
   - Final project: [Sobre la existencia, unicidad, regularidad, acotamiento y estabilidad de un sistema de quimiotaxis-Navier-Stokes de dos especies con cinéticas competitivas](/assets/documents/Trabajo_de_Grado_Genner__Copy_.pdf).
 
@@ -27,5 +29,5 @@ My work focuses on Partial Differential Equations, particularly non-local operat
 
 - (February 2025 - August 2025) Teaching Assistantship, Analysis II.  
 - (August 2024 - January 2025) Teaching Assistantship, Partial Differential Equations I.  
-- (September 2021 - February 2022) Research Assistantship, Partial Differential Equations. 
+- (September 2021 - February 2022) Research Assistantship, Partial Differential Equations.
   - Studied the global solution of a Navier-Stokes-type chemotaxis system with two competitive Lotka-Volterra species; this work formed the basis of my bachelor's thesis.
