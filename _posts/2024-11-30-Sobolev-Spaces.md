@@ -7,3 +7,5 @@ description: An short overview about Sobolev Spaces and applications in PDE.
 math: true
 ---
 For all $\forall \varepsilon >0$
+![img-description](/assets/img/media/profile.png)
+_Image Caption_
