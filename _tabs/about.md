@@ -13,10 +13,12 @@ My work focuses on Partial Differential Equations, particularly non-local operat
 - (2023-2024) Master degree in Science - Mathematics, Universidad Nacional Autónoma de México (UNAM).  
   - Graduated with honors, GPA: 9.75/10
   - General exams (Qualifying exams): Partial differential equations, functional analysis, and numerical analysis of ordinary differential equations.
+  - Final proyect: [Formulación variacional para problemas de difusión anómala unidimensionales](/assets/documents/tesina.pdf)
 - (2017-2022) Undergraduate in Mathematics, Universidad Nacional de Colombia (UNAL).
   - GPA: 4.3/5
   - Research assistantship, Partial Differential Equations.
-- Final proyect: [Formulación variacional para problemas de difusión anómala unidimensionales](/assets/documents/tesina.pdf)
+  - Final proyect: [Sobre la existencia, unicidad, regularidad, acotamiento y estabilidad de un sistema de quimiotaxis-Navier-Stokes de dos especies con cinéticas competitivas](/assets/documents/Trabajo_de_Grado_Genner__Copy_.pdf)
+
 
 ***
 
