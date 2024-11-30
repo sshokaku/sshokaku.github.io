@@ -16,7 +16,7 @@ timezone: America/Mexico_City
 
 title: Genner's blog # the main title
 
-tagline: In the limit of knowledge. # it will display as the subtitle
+tagline: At the boundaries of knowledge # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   My name is Genner Pineda. I am an applied mathematician with a passion for physics, probability, finance, and coding.
@@ -89,7 +89,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark # [light | dark]
+theme_mode: light # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
