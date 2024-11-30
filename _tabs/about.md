@@ -13,4 +13,9 @@ My work focuses on Partial Differential Equations, particularly non-local operat
   - General exams (Qualifying exams): Partial differential equations, functional analysis, and numerical analysis of ordinary differential equations.
 - (2017-2022) Undergraduate in Mathematics, Universidad Nacional de Colombia (UNAL).
   - GPA: 4.3/5
-  
+***
+## Work Experience
+- (Febrary 2025 - August 2025) Teaching assitanship, Analysis II.
+- (August 2024 - January 2025) Teaching assitanship, Partial Differential Equations I.
+- (September 2021 - Febrary 2022) Research assistantship, Partial Differential Equations.
+  -I studied the global solution of a Navier-Stokes-type chemotaxis system with two competitive Lotka-Volterra species; this work formed the basis of my bachelor's thesis.
