@@ -131,7 +131,7 @@ comments:
     reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
-assets:
+assets: /assets/img/favicons
   self_host:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
