@@ -5,8 +5,8 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-
-![Desktop View](/assets/img/media/profile.png){: width="400" height="400" }
+![img-description](/assets/img/media/profile.png)
+_Image Caption_
 
 My name is Genner Pineda. I am an applied mathematician with a passion for physics, probability, finance, and coding.  
 My work focuses on Partial Differential Equations, particularly non-local operators and variational methods.
