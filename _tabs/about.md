@@ -10,5 +10,7 @@ My work focuses on Partial Differential Equations, particularly non-local operat
 ## Education
 - (2023-2024) Master degree in Science - Mathematics, Universidad Nacional Autónoma de México (UNAM).  
   - Graduated with honors, GPA: 9.75/10
-  - General exams (Qualifying exams): Partial Differential Equations, Functional Analysis, and Numerical Analysis of Ordinary Differential Equations.
+  - General exams (Qualifying exams): Partial differential equations, functional analysis, and numerical analysis of ordinary differential equations.
 - (2017-2022) Undergraduate in Mathematics, Universidad Nacional de Colombia (UNAL).
+  - GPA: 4.3/5
+  
