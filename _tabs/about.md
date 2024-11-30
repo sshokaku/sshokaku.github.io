@@ -25,7 +25,7 @@ My work focuses on Partial Differential Equations, particularly non-local operat
 
 ## **Work Experience**
 
-- **(February 2025 - August 2025) Teaching Assistantship, Analysis II.**  
-- **(August 2024 - January 2025) Teaching Assistantship, Partial Differential Equations I.**  
-- **(September 2021 - February 2022) Research Assistantship, Partial Differential Equations.**  
+- (February 2025 - August 2025) Teaching Assistantship, Analysis II.  
+- (August 2024 - January 2025) Teaching Assistantship, Partial Differential Equations I.  
+- (September 2021 - February 2022) Research Assistantship, Partial Differential Equations. 
   - Studied the global solution of a Navier-Stokes-type chemotaxis system with two competitive Lotka-Volterra species; this work formed the basis of my bachelor's thesis.
