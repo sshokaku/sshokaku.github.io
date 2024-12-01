@@ -11,7 +11,9 @@ Hi there! 👋 I'm **Genner Pineda**, an applied mathematician driven by curiosi
 
 🔭 I find inspiration at the intersection of **physics**, **probability**, **finance**, and **coding**—fields where abstract ideas meet real-world challenges.  
 
-When I’m not unraveling equations, I enjoy exploring new tools, learning, and sharing insights about the beauty of mathematics and its applications.  Below is a brief overview of my CV. For more details, please refer to the full version of my [CV](/assets/documents/CV.pdf).
+When I’m not unraveling equations, I enjoy exploring new tools, learning, and sharing insights about the beauty of mathematics and its applications.
+
+Below is a brief overview of my CV. For more details, please refer to the full version of my [CV](/assets/documents/CV.pdf).
 
 ---
 
