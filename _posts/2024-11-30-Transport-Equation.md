@@ -1,6 +1,6 @@
 ---
 title: Transport Equation
-date: 2024-12-01 01:24:00 +0800
+date: 2024-11-30 01:24:00 +0000
 categories: [Courses, Partial Differential Equations I]
 tags: [Courses]     # TAG names should always be lowercase
 math: true
