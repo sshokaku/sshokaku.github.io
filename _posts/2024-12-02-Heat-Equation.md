@@ -1,8 +1,8 @@
 ---
-title: Finite Elements
-date: 2024-12-01 01:24:00 +0800
-categories: [Analysis, Numerical Analysis]
-tags: [PDE]     # TAG names should always be lowercase
+title: Heat Equation
+date: 2024-12-02 01:24:00 +0800
+categories: [Courses, Partial Differential Equations I]
+tags: [Courses]     # TAG names should always be
 math: true
 description: In this post we will provide a short overview of Finite Elements and his conection with PDE.
 ---
