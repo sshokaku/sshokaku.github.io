@@ -7,8 +7,11 @@ order: 1
 
 
 
-My name is Genner Pineda. I am an applied mathematician with a passion for physics, probability, finance, and coding.  
-My work focuses on Partial Differential Equations, particularly non-local operators and variational methods. <br> Below is a brief overview of my CV. For more details, please refer to the full version of my [CV](/assets/documents/CV.pdf).
+Hi there! 👋 I'm **Genner Pineda**, an applied mathematician driven by curiosity and a love for discovery. My journey revolves around exploring the elegance of **Partial Differential Equations**, diving into the intricate world of **non-local operators** and **variational methods**.  
+
+🔭 I find inspiration at the intersection of **physics**, **probability**, **finance**, and **coding**—fields where abstract ideas meet real-world challenges.  
+
+When I’m not unraveling equations, I enjoy exploring new tools, learning, and sharing insights about the beauty of mathematics and its applications. <br> Below is a brief overview of my CV. For more details, please refer to the full version of my [CV](/assets/documents/CV.pdf).
 ---
 
 ## **Education**
