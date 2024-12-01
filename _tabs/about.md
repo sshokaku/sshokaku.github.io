@@ -7,7 +7,7 @@ order: 1
 
 
 
-Hi there! 👋 I'm **Genner Pineda**, an applied mathematician driven by curiosity and a love for discovery. My journey revolves around exploring the elegance of **Partial Differential Equations**, diving into the intricate world of **non-local operators** and **variational methods**.  
+Hi there! 👋 I'm **Genner Pineda**, an mathematician driven by curiosity and a love for discovery. My journey revolves around exploring the elegance of **Partial Differential Equations**, diving into the intricate world of **non-local operators** and **variational methods**.  
 
 🔭 I find inspiration at the intersection of **physics**, **probability**, **finance**, and **coding**—fields where abstract ideas meet real-world challenges.  
 
