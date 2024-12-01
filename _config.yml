@@ -14,9 +14,9 @@ timezone: America/Mexico_City
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Genner Pineda # the main title
+title: Genner Pineda Ceballos # the main title
 
-tagline:  # it will display as the subtitle
+tagline:  Consultoring # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   My name is Genner Pineda. I am an applied mathematician with a passion for physics, probability, finance, and coding.
