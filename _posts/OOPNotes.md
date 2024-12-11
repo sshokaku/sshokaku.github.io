@@ -1,11 +1,3 @@
----
-title: An invitation to OOP, key concepts in Python
-date: 2024-12-11 14:24:00 +0000
-categories: [Courses, Code]
-tags: [Courses]     # TAG names should always be lowercase
-math: true
-description: A gentle guide to OOP in Python.
----
 # An invitation to OOP, key concepts in Python
 
 In this mini-course of OOP I'll show you basic concepts used in this programming paradigm, this mini-course is designed to be an invitation to study OOP or remember key concepts, for those who are experienced with this paradigm, also it's important to say that in this mini-course we only work with Python, enjoy learning!!
@@ -52,7 +44,7 @@ me.eat("Bandeja Paisa")
 ```
 
      Yummy!! Genner has been eating Bandeja Paisa, and currently, his weight is 79 kg.
-
+    
 
 Return to the code, you may be asked what this is:
 ```python
@@ -94,7 +86,7 @@ me.eat('')
 ```
 
     Genner has not been eating; his current weight is 78 kg.
-
+    
 
 Let's find out if the attribute *weight* has actually been modified:
 
@@ -119,7 +111,7 @@ me.eat('')
 ```
 
      Genner has died of starvation, and cannot be fed :c
-
+    
 
 ## Encapsulation: Protected and private attributes
 
