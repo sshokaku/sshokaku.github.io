@@ -6,7 +6,6 @@ tags: [Courses]     # TAG names should always be lowercase
 math: true
 description: A gentle guide to OOP in Python.
 ---
-# An invitation to OOP, key concepts in Python
 
 In this mini-course of OOP I'll show you basic concepts used in this programming paradigm, this mini-course is designed to be an invitation to study OOP or remember key concepts, for those who are experienced with this paradigm, also it's important to say that in this mini-course we only work with Python, enjoy learning!!
 
